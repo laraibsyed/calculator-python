@@ -1,6 +1,6 @@
 # Calculator
 
-A calculator app made with python that can do most functionalities of a scientitic calculator.
+A calculator app made with python that can do most functionalities of a scientific calculator.
 
 ## Screenshots
 
